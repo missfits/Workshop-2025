@@ -4,3 +4,5 @@ add your name here!
 - guoba
 - riley
 - aria
+- kira
+- anisha
